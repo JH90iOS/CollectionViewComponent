@@ -1,4 +1,8 @@
 # CollectionViewComponent
+
+支持pod
+`pod 'JHCollectionViewComponent'`
+
 利用React-Native和Weex中组件的思想，将UICollectionView布局的页面进行组件化，解决复杂页面的扩展性和可维护性问题同时增加组件的复用性。
 
 用户只需要关心数据和Cell样式，不需要进行各种registerNib,registerClass,不需要实现各种 delegat e和 dataSource，用户也不需要再手动缓存高度。
