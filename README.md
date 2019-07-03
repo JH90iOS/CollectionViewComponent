@@ -1,6 +1,6 @@
 # CollectionViewComponent
 
-支持pod
+支持pod集成方式
 `pod 'JHCollectionViewComponent'`
 
 利用React-Native和Weex中组件的思想，将UICollectionView布局的页面进行组件化，解决复杂页面的扩展性和可维护性问题同时增加组件的复用性。
