@@ -8,6 +8,7 @@
 使用:
 
 (```)
+
     JHIGListCollectionViewComponent* viewComponent = [[JHIGListCollectionViewComponent alloc]initWithCollectionView:self.collectionView viewController:self];
     JHIGListSectionComponent* section = [[JHIGListSectionComponent alloc]init];         //section
     JHIGListCellComponent* cell = [[JHIGListCellComponent alloc]init];                  //cell
