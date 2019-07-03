@@ -2,8 +2,8 @@
 //  JHIGListSupplementaryViewComponent.h
 //    
 //
-//  Created by   金华 on 2019/1/23.
-//  Copyright © 2019   金华. All rights reserved.
+//  Created by   JH on 2019/1/23.
+//  Copyright © 2019   JH. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

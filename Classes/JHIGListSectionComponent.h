@@ -2,8 +2,8 @@
 //  JHIGListBaseSectionViewModel.h
 //    
 //
-//  Created by   金华 on 2018/11/26.
-//  Copyright © 2018   金华. All rights reserved.
+//  Created by   JH on 2018/11/26.
+//  Copyright © 2018   JH. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
