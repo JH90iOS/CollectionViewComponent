@@ -7,7 +7,6 @@
 
 使用:
 
-(```)
 
     JHIGListCollectionViewComponent* viewComponent = [[JHIGListCollectionViewComponent alloc]initWithCollectionView:self.collectionView viewController:self];
     JHIGListSectionComponent* section = [[JHIGListSectionComponent alloc]init];         //section
@@ -20,4 +19,3 @@
     section.footerComponent = footer;
     
     viewComponent.sections = @[section];
-(```)
